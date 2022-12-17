@@ -4,3 +4,9 @@
   display: flex;
   margin: 34px auto 0 auto;
 }
+@media screen and (max-width: 320px) {
+  .header__logo {
+    height: 52px;
+    width: 200px;
+  }
+}

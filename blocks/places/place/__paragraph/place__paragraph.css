@@ -1,8 +1,7 @@
 .place__paragraph {
   width: 484px;
   color: #fff;
-  grid-area: paragraph;
 }
-.place__paragraph:nth-of-type(1) {
-  grid-area: anchor;
+.paragraph-container {
+  grid-area: paragraph;
 }
