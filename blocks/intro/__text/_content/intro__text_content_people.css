@@ -1,4 +1,22 @@
 .intro__text_content_people {
   width: 758px;
-  margin: 40px 0 8px 0;
+  margin: 40px 374px 8px 148px;
+}
+
+@media screen and (max-width: 768px) {
+  .intro__text_content_people {
+    height: 170px;
+    width: 720px;
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width: 320px) {
+  .intro__text_content_people {
+    height: 300px;
+    width: 288px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+  }
 }
