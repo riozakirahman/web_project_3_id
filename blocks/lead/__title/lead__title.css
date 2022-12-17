@@ -8,3 +8,22 @@
   margin: 0 auto;
   color: #fff;
 }
+@media screen and (max-width: 768px) {
+  .lead__title {
+    height: auto;
+    width: 575px;
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 1;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 320px) {
+  .lead__title {
+    width: 245px;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 1.1;
+    text-align: center;
+  }
+}
