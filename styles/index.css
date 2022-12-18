@@ -15,15 +15,19 @@
 @import url("/blocks/photo-grid/__item/photo-grid__item.css");
 @import url("/blocks/places/places.css");
 @import url("/blocks/places/place/place.css");
+@import url("/blocks/places/place/_burundi/place_burundi.css");
 @import url("/blocks/paragraph-container/paragraph-container.css");
 @import url("/blocks/places/place/__title/place__title.css");
 @import url("/blocks/places/place/__title/_us/place__title_us.css");
 @import url("/blocks/places/place/__title/wales/place__title_wales.css");
+@import url("/blocks/places/place/__title/burundi/place__title_burundi.css");
 @import url("/blocks/places/place/__website/place__website.css");
 @import url("/blocks/places/place/__website/_wales/place__website_wales.css");
 @import url("/blocks/places/place/__website/_us/place__website_us.css");
+@import url("/blocks/places/place/__website/_burundi/place__website_burundi.css");
 @import url("/blocks/places/place/__artist/place__artist.css");
 @import url("/blocks/places/place/__artist/_us/place__artist_us.css");
+@import url("/blocks/places/place/__artist/_burundi/place__artist_burundi.css");
 @import url("/blocks/places/place/__url-heading/place__url-heading.css");
 @import url("/blocks/places/place/__image/place__image.css");
 @import url("/blocks/places/place/__paragraph/place__paragraph.css");
@@ -31,5 +35,6 @@
 @import url("/blocks/places/place/__paragraph/_kyiv/place__paragraph_kyiv.css");
 @import url("/blocks/places/place/__paragraph/_wales/place__paragraph_wales.css");
 @import url("/blocks/places/place/__paragraph/_us/place__paragraph_us.css");
+@import url("/blocks/places/place/__paragraph/_burundi/place__paragraph_burundi.css");
 @import url("/blocks/places/place/__paragraph/_anchor/place__paragraph_anchor.css");
 @import url("/blocks/span/span.css");

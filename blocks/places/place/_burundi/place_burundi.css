@@ -1,0 +1,18 @@
+.place_burundi {
+  grid-template-areas:
+    "title website"
+    "image paragraph"
+    "anchor paragraph"
+    "anchor paragraph"
+    "anchor paragraph";
+}
+@media screen and (max-width: 320px) {
+  .place_burundi {
+    grid-template-areas:
+      "title"
+      "website"
+      "image"
+      "paragraph"
+      "anchor";
+  }
+}

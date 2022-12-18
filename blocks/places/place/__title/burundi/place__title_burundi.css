@@ -1,0 +1,17 @@
+.place__title_burundi {
+  height: 152px;
+  margin-bottom: 40px;
+}
+@media screen and (max-width: 768px) {
+  .place__title_burundi {
+    width: 340px;
+    height: 92px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .place__title_burundi {
+    width: 288px;
+    height: 70px;
+    margin-bottom: 30px;
+  }
+}
