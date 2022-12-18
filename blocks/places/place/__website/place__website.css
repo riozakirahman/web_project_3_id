@@ -5,10 +5,20 @@
   justify-content: flex-end;
   flex-direction: column;
   margin-bottom: 26px;
+  grid-area: website;
 }
 @media screen and (max-width: 768px) {
   .place__website {
     height: 67px;
     width: 309px;
+    justify-content: flex-start;
+    margin-bottom: 24px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .place__website {
+    margin: 0 auto;
+    width: auto;
+    height: auto;
   }
 }

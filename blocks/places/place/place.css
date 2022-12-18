@@ -1,14 +1,28 @@
 .place {
   display: grid;
-  grid-template-areas: "left right";
+  grid-template-areas:
+    "title website"
+    "image paragraph"
+    "anchor anchor";
   column-gap: 40px;
   margin: 0 auto 80px auto;
 }
 @media screen and (max-width: 768px) {
   .place {
     column-gap: 28px;
-    height: 626px;
-    width: 720px;
-    margin: 0 auto;
+    grid-template-areas:
+      "title website"
+      "image paragraph"
+      "anchor paragraph";
+  }
+}
+@media screen and (max-width: 320px) {
+  .place {
+    grid-template-areas:
+      "title"
+      "website"
+      "image"
+      "paragraph"
+      "anchor";
   }
 }

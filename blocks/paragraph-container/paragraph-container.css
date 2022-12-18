@@ -1,0 +1,4 @@
+.paragraph-container {
+  grid-area: paragraph;
+  height: auto;
+}

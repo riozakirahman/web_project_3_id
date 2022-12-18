@@ -5,13 +5,25 @@
   font-size: 72px;
   font-weight: 900;
   line-height: 1.05;
-  margin-bottom: 26px;
+  grid-area: title;
 }
 @media screen and (max-width: 768px) {
   .place__title {
     width: 340px;
     height: 92px;
     font-size: 42px;
+    font-weight: 900;
+    line-height: 1;
+    text-align: left;
+  }
+}
+@media screen and (max-width: 320px) {
+  .place__title {
+    margin: 0 auto 30px auto;
+    height: 35px;
+    width: 288px;
+    font-family: Inter;
+    font-size: 32px;
     font-weight: 900;
     line-height: 1;
     text-align: left;

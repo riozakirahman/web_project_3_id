@@ -5,4 +5,17 @@
   padding: 13px 20px;
   background: #0278fe;
   text-decoration: none;
+  grid-area: anchor;
+}
+@media screen and (max-width: 768px) {
+  .place__paragraph_anchor {
+    margin-top: -48px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .place__paragraph_anchor {
+    margin: 0 16px;
+    padding: 13px 12px 9px 12px;
+    width: 288px;
+  }
 }

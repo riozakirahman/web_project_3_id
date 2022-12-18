@@ -5,3 +5,10 @@
   text-align: left;
   color: #fff;
 }
+@media screen and (max-width: 320px) {
+  .place__artist {
+    height: 66px;
+    width: 288px;
+    margin-bottom: 8px;
+  }
+}
