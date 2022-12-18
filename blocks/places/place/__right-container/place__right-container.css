@@ -1,0 +1,5 @@
+.place__right-container {
+  grid-area: right;
+  display: flex;
+  flex-direction: column;
+}

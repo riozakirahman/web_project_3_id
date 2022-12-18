@@ -15,9 +15,12 @@
 @import url("/blocks/photo-grid/__item/photo-grid__item.css");
 @import url("/blocks/places/places.css");
 @import url("/blocks/places/place/place.css");
+@import url("/blocks/places/place/__left-container/place__left-container.css");
+@import url("/blocks/places/place/__right-container/place__right-container.css");
 @import url("/blocks/places/place/__title/place__title.css");
 @import url("/blocks/places/place/__website/place__website.css");
 @import url("/blocks/places/place/__artist/place__artist.css");
 @import url("/blocks/places/place/__url-heading/place__url-heading.css");
 @import url("/blocks/places/place/__image/place__image.css");
 @import url("/blocks/places/place/__paragraph/place__paragraph.css");
+@import url("/blocks/places/place/__paragraph/_kyiv/place__paragraph_kyiv.css");

@@ -1,7 +1,8 @@
 .place__paragraph {
   width: 484px;
   color: #fff;
-}
-.paragraph-container {
-  grid-area: paragraph;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.6;
+  text-align: left;
 }

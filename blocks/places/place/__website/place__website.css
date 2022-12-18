@@ -1,5 +1,8 @@
 .place__website {
-  grid-area: website;
   width: 456px;
-  align-self: flex-end;
+  height: 151px;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  margin-bottom: 26px;
 }
