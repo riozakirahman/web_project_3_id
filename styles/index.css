@@ -23,11 +23,13 @@
 @import url("/blocks/places/place/__website/_wales/place__website_wales.css");
 @import url("/blocks/places/place/__website/_us/place__website_us.css");
 @import url("/blocks/places/place/__artist/place__artist.css");
+@import url("/blocks/places/place/__artist/_us/place__artist_us.css");
 @import url("/blocks/places/place/__url-heading/place__url-heading.css");
 @import url("/blocks/places/place/__image/place__image.css");
 @import url("/blocks/places/place/__paragraph/place__paragraph.css");
 @import url("/blocks/places/place/__paragraph-container/place__paragraph-container.css");
 @import url("/blocks/places/place/__paragraph/_kyiv/place__paragraph_kyiv.css");
 @import url("/blocks/places/place/__paragraph/_wales/place__paragraph_wales.css");
+@import url("/blocks/places/place/__paragraph/_us/place__paragraph_us.css");
 @import url("/blocks/places/place/__paragraph/_anchor/place__paragraph_anchor.css");
 @import url("/blocks/span/span.css");
