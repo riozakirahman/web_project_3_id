@@ -1,0 +1,37 @@
+.place__paragraph_wales {
+  font-size: 16.5px;
+  line-height: 1.6;
+}
+.place__paragraph_wales:nth-child(1) {
+  height: 200px;
+}
+.place__paragraph_wales:nth-child(2) {
+  height: 270px;
+}
+@media screen and (max-width: 768px) {
+  .place__paragraph_wales {
+    width: 352px;
+    font-size: 15px;
+  }
+  .place__paragraph_wales:nth-child(1) {
+    height: 216px;
+    margin-bottom: 17px;
+  }
+  .place__paragraph_wales:nth-child(2) {
+    height: 288px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .place__paragraph_wales {
+    width: 288px;
+    font-size: 16px;
+  }
+  .place__paragraph_wales:nth-child(1) {
+    height: 312px;
+    margin: 30px auto 0 auto;
+  }
+  .place__paragraph_wales:nth-child(2) {
+    height: 416px;
+    margin: 0 auto;
+  }
+}
