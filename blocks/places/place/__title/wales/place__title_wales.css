@@ -1,0 +1,14 @@
+.place__title_wales {
+  width: 347px;
+}
+@media screen and (max-width: 768px) {
+  .place__title_wales {
+    align-self: center;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__title_wales {
+    width: 288px;
+  }
+}

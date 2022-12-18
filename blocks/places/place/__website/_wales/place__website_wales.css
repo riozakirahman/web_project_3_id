@@ -1,3 +1,12 @@
-.place__website_wales {
-  margin-bottom: 48px;
+@media screen and (max-width: 768px) {
+  .place__website_wales {
+    width: 352px;
+    height: 89px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .place__website_wales {
+    width: auto;
+    height: 111px;
+  }
 }

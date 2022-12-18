@@ -17,8 +17,11 @@
 @import url("/blocks/places/place/place.css");
 @import url("/blocks/paragraph-container/paragraph-container.css");
 @import url("/blocks/places/place/__title/place__title.css");
+@import url("/blocks/places/place/__title/_us/place__title_us.css");
+@import url("/blocks/places/place/__title/wales/place__title_wales.css");
 @import url("/blocks/places/place/__website/place__website.css");
 @import url("/blocks/places/place/__website/_wales/place__website_wales.css");
+@import url("/blocks/places/place/__website/_us/place__website_us.css");
 @import url("/blocks/places/place/__artist/place__artist.css");
 @import url("/blocks/places/place/__url-heading/place__url-heading.css");
 @import url("/blocks/places/place/__image/place__image.css");
