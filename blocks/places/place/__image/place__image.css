@@ -3,3 +3,9 @@
   height: 460px;
   margin-bottom: 48px;
 }
+@media screen and (max-width: 768px) {
+  .place__image {
+    width: 340px;
+    height: 340px;
+  }
+}

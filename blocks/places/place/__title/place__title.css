@@ -7,3 +7,13 @@
   line-height: 1.05;
   margin-bottom: 26px;
 }
+@media screen and (max-width: 768px) {
+  .place__title {
+    width: 340px;
+    height: 92px;
+    font-size: 42px;
+    font-weight: 900;
+    line-height: 1;
+    text-align: left;
+  }
+}

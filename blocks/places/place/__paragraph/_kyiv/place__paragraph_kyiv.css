@@ -4,3 +4,17 @@
 .place__paragraph_kyiv:nth-child(2) {
   height: 261px;
 }
+@media screen and (max-width: 768px) {
+  .place__paragraph_kyiv:nth-child(1) {
+    height: 260px;
+    width: 352px;
+    font-size: 16px;
+    line-height: 26.08px;
+  }
+  .place__paragraph_kyiv:nth-child(2) {
+    height: 286px;
+    width: 352px;
+    font-size: 16px;
+    line-height: 26.08px;
+  }
+}
