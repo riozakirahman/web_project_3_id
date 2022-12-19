@@ -10,7 +10,7 @@
 .place__paragraph_us:nth-child(2) {
   height: 189px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1279px) {
   .place__paragraph_us {
     font-size: 15px;
     line-height: 1.6;
@@ -24,13 +24,14 @@
     height: 192px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
   .place__paragraph_us {
     width: 288px;
     margin: 0 auto;
+    font-size: 15px;
   }
   .place__paragraph_us:nth-child(1) {
-    height: 340px;
+    height: 360px;
     margin: 30px auto 3px auto;
   }
   .place__paragraph_us:nth-child(2) {

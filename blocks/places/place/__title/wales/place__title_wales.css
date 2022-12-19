@@ -1,4 +1,4 @@
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1279px) {
   .place__title_wales {
     align-self: center;
     width: 340px;
@@ -6,8 +6,9 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
   .place__title_wales {
     width: 288px;
+    white-space: nowrap;
   }
 }

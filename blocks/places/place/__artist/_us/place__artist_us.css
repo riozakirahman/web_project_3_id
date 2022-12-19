@@ -1,6 +1,11 @@
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 320px) and (max-width: 1279px) {
   .place__artist_us {
     height: 44px;
     margin-bottom: 26px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__artist_us {
+    margin-bottom: 8px;
   }
 }

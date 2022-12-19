@@ -1,12 +1,13 @@
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1279px) {
   .place__website_wales {
     width: 352px;
     height: 89px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
   .place__website_wales {
     width: auto;
     height: 111px;
+    justify-content: flex-start;
   }
 }

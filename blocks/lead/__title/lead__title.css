@@ -8,9 +8,9 @@
   margin: 0 auto;
   color: #fff;
 }
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1279px) {
   .lead__title {
-    height: auto;
+    height: unset;
     width: 575px;
     font-size: 96px;
     font-weight: 900;
@@ -18,9 +18,10 @@
     text-align: center;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
   .lead__title {
     width: 245px;
+    height: unset;
     font-size: 40px;
     font-weight: 900;
     line-height: 1.1;
