@@ -7,6 +7,9 @@
   text-decoration: none;
   grid-area: anchor;
 }
+.place__paragraph_anchor:hover {
+  background: #0063d2;
+}
 @media screen and (min-width: 768px) and (max-width: 1279px) {
   .place__paragraph_anchor {
     margin-top: -48px;

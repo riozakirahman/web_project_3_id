@@ -11,6 +11,7 @@
   .cover {
     height: 746px;
     width: 768px;
+    margin-bottom: 88px;
   }
 }
 
@@ -18,5 +19,6 @@
   .cover {
     height: 254px;
     width: 320px;
+    margin-bottom: 64px;
   }
 }
