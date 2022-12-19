@@ -1,0 +1,11 @@
+.cover__paragraph {
+  padding: 13px 20px;
+  margin: 0 auto 0 auto;
+  background: #0278fe;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+}
+.cover__paragraph:hover {
+  background: rgba(0, 99, 210, 1);
+}
