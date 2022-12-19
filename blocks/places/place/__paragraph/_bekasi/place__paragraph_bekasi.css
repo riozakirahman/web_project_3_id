@@ -1,0 +1,21 @@
+.place__paragraph_bekasi {
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 30px auto 20px auto;
+}
+.place__paragraph_bekasi:nth-child(2) {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .place__paragraph_bekasi {
+    width: 352px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__paragraph_bekasi {
+    width: 288px;
+    height: auto;
+  }
+}
