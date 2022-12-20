@@ -1,5 +1,6 @@
 @import url("./normalize.css");
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap");
+@import url("/font/font.css");
+@import url("../blocks/body/body.css");
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/lead/lead.css");
 @import url("../blocks/lead/__title/lead__title.css");
@@ -33,7 +34,6 @@
 @import url("../blocks/places/place/__url-heading/place__url-heading.css");
 @import url("../blocks/places/place/__image/place__image.css");
 @import url("../blocks/places/place/__paragraph/place__paragraph.css");
-@import url("../blocks/places/place/__paragraph-container/place__paragraph-container.css");
 @import url("../blocks/places/place/__paragraph/_kyiv/place__paragraph_kyiv.css");
 @import url("../blocks/places/place/__paragraph/_wales/place__paragraph_wales.css");
 @import url("../blocks/places/place/__paragraph/_us/place__paragraph_us.css");
