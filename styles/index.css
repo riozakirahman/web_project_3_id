@@ -1,4 +1,4 @@
-@import url("../styles/normalize.css");
+@import url("./normalize.css");
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/lead/lead.css");
 @import url("../blocks/lead/__title/lead__title.css");
