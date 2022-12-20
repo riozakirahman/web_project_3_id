@@ -11,4 +11,4 @@ Ini adalah project yang menerapkan responsive design di antara 3 breakpoints yai
 
 **Github Pages**
 
-Cara kamu melakukannya di tempat kerja adalah dengan mengekspor gambar langsung dari dari Figma — kami sarankan melakukan itu untuk berlatih lebih banyak. Jangan lupa untuk mengoptimalkannya [di sini] (https://tinypng.com/), sehingga proyek kamu dimuat lebih cepat.
+Link untuk ke website ini: https://riozakirahman.github.io/web_project_3_id/
