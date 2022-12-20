@@ -6,6 +6,7 @@
   background: #0278fe;
   text-decoration: none;
   grid-area: anchor;
+  box-sizing: border-box;
 }
 .place__paragraph_anchor:hover {
   background: #0063d2;
