@@ -1,21 +1,14 @@
-# Proyek 3: Dari Kampung Halaman ke Kampung Halaman
+# Proyek 3: Gallery kota - kota dengan menggunakan grid dan responsive design
 
 ### Gambaran umum
 
-- Pengantar
-- Figma
-- Gambar
+- Deskripsi Project
+- Link Github Pages
 
-**Pengantar**
+**Deskripsi Project**
 
-Ini adalah proyek yang menampilkan kampung halaman beberapa karyawan Practicum. Kita telah membuatnya sehingga semua elemen ditampilkan secara tepat di ukuran layar yang populer. Kami sarankan untuk meluangkan lebih banyak waktu dalam menyelesaikan proyek ini, karena ini lebih sulit daripada proyek yang sebelumnya.
+Ini adalah project yang menerapkan responsive design di antara 3 breakpoints yaitu 320 - 768, 768 - 1280 dan 1280. Project ini menggunakan display grid.
 
-**Figma**
-
-- [Tautkan ke proyek di Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)
-
-**Gambar**
+**Github Pages**
 
 Cara kamu melakukannya di tempat kerja adalah dengan mengekspor gambar langsung dari dari Figma — kami sarankan melakukan itu untuk berlatih lebih banyak. Jangan lupa untuk mengoptimalkannya [di sini] (https://tinypng.com/), sehingga proyek kamu dimuat lebih cepat.
-
-Semoga berhasil dan bersenang-senanglah!
