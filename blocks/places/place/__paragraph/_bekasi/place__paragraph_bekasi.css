@@ -1,7 +1,7 @@
 .place__paragraph_bekasi {
   font-size: 17px;
   line-height: 1.6;
-  margin: 30px auto 20px auto;
+  margin: 0 auto 20px auto;
 }
 .place__paragraph_bekasi:nth-child(2) {
   margin-top: 0;
